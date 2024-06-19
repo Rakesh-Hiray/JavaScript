@@ -24,3 +24,13 @@ console.log(square2); // Output: 16
 ---------------------------------------------------
 
 */
+
+// Ex: Simple Program to print the Hello world program
+
+let Msg = "Hello...From JavaScript";
+
+function printGreet(msg) {
+    console.log(msg);
+}
+
+printGreet(Msg); // Hello...From JavaScript
