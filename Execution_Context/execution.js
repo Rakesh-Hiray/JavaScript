@@ -34,13 +34,3 @@ function printGreet(msg) {
 }
 
 printGreet(Msg); // Hello...From JavaScript
-
-// Ex2: Simple Program to print the Hello world program
-
-let Msg = "Hello.World";
-
-function printGreet(msg) {
-    console.log(msg);
-}
-
-printGreet(Msg); // Hello...From JavaScript

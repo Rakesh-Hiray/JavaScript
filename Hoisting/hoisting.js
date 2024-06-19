@@ -54,14 +54,3 @@ let y = 7;
 let getHost = () =>  {
     console.log("In Host");
 }
-
-// ********** Arrow Function **********
-
-getHost();  // undfined
-console.log(y); // undefined, memory is allocated and assigned placeholder 'undefined'
-
-let y = 7;
-
-let getHost = () =>  {
-    console.log("In Host");
-}
