@@ -44,14 +44,3 @@ function printGreet(msg) {
 }
 
 printGreet(Msg); // Hello...From JavaScript
-
-/*
----------------------------------------------------
-| Memory (Variable env) | Code (Thread of exec.) |
----------------------------------------------------
-|   Key: Value          |    *                   |
-|    a:10               |    *      Code         |
-|    fun: {...}         |    *                   |
----------------------------------------------------
-
-*/
